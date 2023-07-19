@@ -21,7 +21,7 @@ handleClick=()=>{
     //console.log('clicked.');
     const count = this.state.count
     this.setState({count:count+1});
-    // console.log("hello",count+1);
+    console.log("hello",count+1);
     // if(count<=10){
     //     console.log(this.handleClick);
     // }

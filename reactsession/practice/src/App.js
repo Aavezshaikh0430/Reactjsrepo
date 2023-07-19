@@ -1,10 +1,21 @@
+// import Formhandel from "./compunent/Formhandel";
 
-import Counter from './compunent/Counter'
+import InputForm from "./compunent/InputForm";
+
+
+
+// import Counter from './compunent/Counter';
+// import Counters from "./compunent/Counters"
+
+
+
+
 function App() {
   return (
     <div className="App">
-      
-      <Counter/>
+      {/* <Formhandel/> */}
+    
+      <InputForm>Heloow</InputForm>
     </div>
   );
 }
